@@ -1,0 +1,4 @@
+print "Hello, Please enter your name below "
+user_name = input()
+print "Hi,"
+print user_input
