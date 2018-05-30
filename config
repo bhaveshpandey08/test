@@ -6,3 +6,6 @@
 	worktree = E:/
 	symlinks = false
 	ignorecase = true
+[remote "origin"]
+	url = https://github.com/bhaveshpandey08/test.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
